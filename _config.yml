@@ -3,7 +3,7 @@
 # primary settings:
 baseurl: "/sdg-in-staging-site" # change here!
 # remote_data_prefix: "https://open-sdg.org/open-sdg-data-starter"
-remote_data_prefix: https://opensdgde.github.io/goettingen-data/
+remote_data_prefix: https://opensdgde.github.io/goettingen-data
 
 # URL for the "Edit Data" and "Edit Metadata" button on indicators.
 data_edit_url: http://prose.io/#OpenSDGde/goettingen-data/edit/develop/data/indicator_[id].csv
