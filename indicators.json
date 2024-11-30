@@ -30,4 +30,852 @@
           "status": "complete"
         }]
     }
+  },
+  {
+    "goal": {
+      "id": "2",
+      "title": "Den Hunger beenden, Ernährungssicherheit und eine bessere Ernährung erreichen und eine nachhaltige Landwirtschaft fördern",
+      "indicators": [
+        
+        {
+          "id": "2-1",
+          "title": "Solidarische Landwirtschaften - Anzahl Stadtgärten, Gemeinschaftsgärten - Anzahl Initiativen im Bereich nachhaltiger Ernährung (mind.)",
+          "description": "",
+          "keywords": "",
+          "href": "/goettingen-site/2-1/",
+          "status": "complete"
+        },
+        {
+          "id": "2-2",
+          "title": "Göttinger Tafel: unterstützte Personen; Sach- und Nahrungsmittelspenden; Essensausgaben pro Woche",
+          "description": "",
+          "keywords": "",
+          "href": "/goettingen-site/2-2/",
+          "status": "complete"
+        },
+        {
+          "id": "2-3",
+          "title": "Kleingärten und Grabeland (Fläche in m²)",
+          "description": "",
+          "keywords": "",
+          "href": "/goettingen-site/2-3/",
+          "status": "complete"
+        }]
+    }
+  },
+  {
+    "goal": {
+      "id": "3",
+      "title": "Ein gesundes Leben für alle Menschen jeden Alters gewährleisten und ihr Wohlergehen fördern",
+      "indicators": [
+        
+        {
+          "id": "3-1",
+          "title": "Vorzeitige Sterblichkeit - Frauen (Todesfälle je 1.000 Einwohner:innen) Vorzeitige Sterblichkeit - Männer (Todesfälle je 1.000 Einwohner:innen)",
+          "description": "",
+          "keywords": "",
+          "href": "/goettingen-site/3-1/",
+          "status": "complete"
+        },
+        {
+          "id": "3-2",
+          "title": "Krankenhausversorgung (Krankenhausbetten je 100.000 Einwohner:innen)",
+          "description": "",
+          "keywords": "",
+          "href": "/goettingen-site/3-2/",
+          "status": "complete"
+        },
+        {
+          "id": "3-3",
+          "title": "Personal in Pflegeheimen (Vollzeitäquivalente je 1.000 Pflegebedürftige)",
+          "description": "",
+          "keywords": "",
+          "href": "/goettingen-site/3-3/",
+          "status": "complete"
+        },
+        {
+          "id": "3-4",
+          "title": "Pflegeheimplätze",
+          "description": "",
+          "keywords": "",
+          "href": "/goettingen-site/3-4/",
+          "status": "complete"
+        },
+        {
+          "id": "3-5",
+          "title": "Luftschadstoffbelastung",
+          "description": "",
+          "keywords": "",
+          "href": "/goettingen-site/3-5/",
+          "status": "complete"
+        }]
+    }
+  },
+  {
+    "goal": {
+      "id": "4",
+      "title": "Inklusive, gleichberechtigte und hochwertige Bildung gewährleisten und Möglichkeiten lebenslangen Lernens für alle fördern",
+      "indicators": [
+        
+        {
+          "id": "4-1",
+          "title": "Schulabgänger:innen allgmb./berufsb. Schulen ohne Hauptschulabschluss - Gesamt (%)",
+          "description": "",
+          "keywords": "",
+          "href": "/goettingen-site/4-1/",
+          "status": "complete"
+        },
+        {
+          "id": "4-2",
+          "title": "Studierendenzahlen in Göttingen (Entwicklung nach Jahren)",
+          "description": "",
+          "keywords": "",
+          "href": "/goettingen-site/4-2/",
+          "status": "complete"
+        },
+        {
+          "id": "4-3",
+          "title": "Teilnehmende Schulen am Projekt 'Klima-Grundschule'",
+          "description": "",
+          "keywords": "",
+          "href": "/goettingen-site/4-3/",
+          "status": "complete"
+        },
+        {
+          "id": "4-4",
+          "title": "umgesetzte Projekttage mit Nachhaltigkeitsschwerpunkt",
+          "description": "",
+          "keywords": "",
+          "href": "/goettingen-site/4-4/",
+          "status": "complete"
+        }]
+    }
+  },
+  {
+    "goal": {
+      "id": "5",
+      "title": "Geschlechtergleichstellung erreichen und alle Frauen und Mädchen zur Selbstbestimmung befähigen",
+      "indicators": [
+        
+        {
+          "id": "5-1",
+          "title": "Verhältnis der Beschäftigungsquote von Frauen und Männern (%) Göttingen",
+          "description": "",
+          "keywords": "",
+          "href": "/goettingen-site/5-1/",
+          "status": "complete"
+        },
+        {
+          "id": "5-2",
+          "title": "Verdienstabstand zwischen Frauen und Männern (%)",
+          "description": "",
+          "keywords": "",
+          "href": "/goettingen-site/5-2/",
+          "status": "complete"
+        },
+        {
+          "id": "5-3",
+          "title": "Frauenanteil in Stadtrat, Gemeinderat bzw. Kreistag (%)",
+          "description": "",
+          "keywords": "",
+          "href": "/goettingen-site/5-3/",
+          "status": "complete"
+        },
+        {
+          "id": "5-4",
+          "title": "Frauenanteil in Führungspositionen in der öffentlichen Verwaltung",
+          "description": "",
+          "keywords": "",
+          "href": "/goettingen-site/5-4/",
+          "status": "complete"
+        },
+        {
+          "id": "5-5",
+          "title": "Unter 3-Jährige in Tageseinrichtungen (%) Göttingen",
+          "description": "",
+          "keywords": "",
+          "href": "/goettingen-site/5-5/",
+          "status": "complete"
+        },
+        {
+          "id": "5-6",
+          "title": "Anzahl der Anlaufstellen und Unterstützungsangebote für Mädchen und junge Frauen (Frauenhäuser, -notruf, Initiativen)",
+          "description": "",
+          "keywords": "",
+          "href": "/goettingen-site/5-6/",
+          "status": "complete"
+        },
+        {
+          "id": "5-7",
+          "title": "Alleinerziehende (Quote Frauen und Männer)",
+          "description": "",
+          "keywords": "",
+          "href": "/goettingen-site/5-7/",
+          "status": "complete"
+        },
+        {
+          "id": "5-8",
+          "title": "global_indicators.5-8-title",
+          "description": "",
+          "keywords": "",
+          "href": "/goettingen-site/5-8/",
+          "status": "complete"
+        }]
+    }
+  },
+  {
+    "goal": {
+      "id": "6",
+      "title": "Verfügbarkeit und nachhaltige Bewirtschaftung von Wasser und Sanitärversorgung für alle gewährleisten",
+      "indicators": [
+        
+        {
+          "id": "6-1",
+          "title": "Abwasserbehandlung (%) Göttingen",
+          "description": "",
+          "keywords": "",
+          "href": "/goettingen-site/6-1/",
+          "status": "complete"
+        },
+        {
+          "id": "6-2",
+          "title": "Trinkwasserverbrauch (l je Einwohner:in und Tag)",
+          "description": "",
+          "keywords": "",
+          "href": "/goettingen-site/6-2/",
+          "status": "complete"
+        },
+        {
+          "id": "6-3",
+          "title": "Trinkwasserqualität",
+          "description": "",
+          "keywords": "",
+          "href": "/goettingen-site/6-3/",
+          "status": "complete"
+        },
+        {
+          "id": "6-4",
+          "title": "Anzahl öffentlich zugängliche Trinkwasserspender (in-/outdoor)",
+          "description": "",
+          "keywords": "",
+          "href": "/goettingen-site/6-4/",
+          "status": "complete"
+        }]
+    }
+  },
+  {
+    "goal": {
+      "id": "7",
+      "title": "Zugang zu bezahlbarer, verlässlicher, nachhaltiger und moderner Energie für alle sichern",
+      "indicators": [
+        
+        {
+          "id": "7-1",
+          "title": "Endenergieverbrauch Göttingen nach Energieträgern (MWh/a)",
+          "description": "",
+          "keywords": "",
+          "href": "/goettingen-site/7-1/",
+          "status": "complete"
+        },
+        {
+          "id": "7-2",
+          "title": "Endenergieverbrauch Göttingen nach Energieträgern (%)",
+          "description": "",
+          "keywords": "",
+          "href": "/goettingen-site/7-2/",
+          "status": "complete"
+        },
+        {
+          "id": "7-3",
+          "title": "Wärmeverbrauch nach Sektoren (%)",
+          "description": "",
+          "keywords": "",
+          "href": "/goettingen-site/7-3/",
+          "status": "complete"
+        },
+        {
+          "id": "7-4",
+          "title": "Wärmeverbrauch nach Energieträgern (MWh)",
+          "description": "",
+          "keywords": "",
+          "href": "/goettingen-site/7-4/",
+          "status": "complete"
+        },
+        {
+          "id": "7-5",
+          "title": "Wärmeverbrauch nach Energieträgern (%)",
+          "description": "",
+          "keywords": "",
+          "href": "/goettingen-site/7-5/",
+          "status": "complete"
+        },
+        {
+          "id": "7-6",
+          "title": "Stromverbrauch nach Sektoren (%)",
+          "description": "",
+          "keywords": "",
+          "href": "/goettingen-site/7-6/",
+          "status": "complete"
+        },
+        {
+          "id": "7-7",
+          "title": "Stromerzeugung nach Energieträgern konventionell, Wind, PV, weitere Energieträger (Mwh/a oder %)",
+          "description": "",
+          "keywords": "",
+          "href": "/goettingen-site/7-7/",
+          "status": "complete"
+        },
+        {
+          "id": "7-8",
+          "title": "Anteil lokal erzeugter EE am Stromverbrauch (%)",
+          "description": "",
+          "keywords": "",
+          "href": "/goettingen-site/7-8/",
+          "status": "complete"
+        },
+        {
+          "id": "7-9",
+          "title": "nach Art der Erzeugung",
+          "description": "",
+          "keywords": "",
+          "href": "/goettingen-site/7-9/",
+          "status": "complete"
+        },
+        {
+          "id": "7-10",
+          "title": "Stromerzeugung aus PV: Anzahl PV-Anlagen im Stadtgebiet",
+          "description": "",
+          "keywords": "",
+          "href": "/goettingen-site/7-10/",
+          "status": "complete"
+        },
+        {
+          "id": "7-11",
+          "title": "Anzahl PV-Anlagen auf städtischen Dächern (Stadt und städt. Gesellschaften)",
+          "description": "",
+          "keywords": "",
+          "href": "/goettingen-site/7-11/",
+          "status": "complete"
+        },
+        {
+          "id": "7-12",
+          "title": "PV-Anlagen: installierte Leistung gesamt auf städtischen Dächern (kWp)",
+          "description": "",
+          "keywords": "",
+          "href": "/goettingen-site/7-12/",
+          "status": "complete"
+        },
+        {
+          "id": "7-13",
+          "title": "Ergänzend eventuell: Prozentzahl der städtischen Gebäude mit PV-Belegung",
+          "description": "",
+          "keywords": "",
+          "href": "/goettingen-site/7-13/",
+          "status": "complete"
+        },
+        {
+          "id": "7-14",
+          "title": "Balkonkraftwerke",
+          "description": "",
+          "keywords": "",
+          "href": "/goettingen-site/7-14/",
+          "status": "complete"
+        },
+        {
+          "id": "7-15",
+          "title": "Marktstammdatenregister: https://www.marktstammdatenregister.de/MaStR/Einheit/Einheiten/OeffentlicheEinheitenuebersicht http://www.marktstammdatenregister.de/MaStR/Einheit/Einheiten/OeffentlicheEinheitenuebersicht?filter=Gemeinde~eq~%27G%C3%B6ttingen%27",
+          "description": "",
+          "keywords": "",
+          "href": "/goettingen-site/7-15/",
+          "status": "complete"
+        },
+        {
+          "id": "7-16",
+          "title": "installierte Speicherkapazität",
+          "description": "",
+          "keywords": "",
+          "href": "/goettingen-site/7-16/",
+          "status": "complete"
+        },
+        {
+          "id": "7-17",
+          "title": "http://www.marktstammdatenregister.de/MaStR/Einheit/Einheiten/OeffentlicheEinheitenuebersicht?filter=Anzeige-Name%20der%20Einheit~eq~%27Stromspeicher%27~and~Gemeinde~eq~%27G%C3%B6ttingen%27",
+          "description": "",
+          "keywords": "",
+          "href": "/goettingen-site/7-17/",
+          "status": "complete"
+        }]
+    }
+  },
+  {
+    "goal": {
+      "id": "8",
+      "title": "Dauerhaftes, breitenwirksames und nachhaltiges Wirtschaftswachstum, produktive Vollbeschäftigung und menschenwürdige Arbeit für alle fördern",
+      "indicators": [
+        
+        {
+          "id": "8-1",
+          "title": "Langzeitarbeitslosenquote (%) Göttingen",
+          "description": "",
+          "keywords": "",
+          "href": "/goettingen-site/8-1/",
+          "status": "complete"
+        },
+        {
+          "id": "8-2",
+          "title": "Beschäftigungsquote (%) Beschäftigungsquote 55- bis 64-Jährige (%)",
+          "description": "",
+          "keywords": "",
+          "href": "/goettingen-site/8-2/",
+          "status": "complete"
+        },
+        {
+          "id": "8-3",
+          "title": "Erwerbstätige Aufstocker*innen Gesamt (%) Erwerbstätige Aufstocker*innen - Frauen (%) Erwerbstätige Aufstocker*innen - Männer (%)",
+          "description": "",
+          "keywords": "",
+          "href": "/goettingen-site/8-3/",
+          "status": "complete"
+        },
+        {
+          "id": "8-4",
+          "title": "EinpendlerInnen Berufseinpendler*innen (inkl. Auszubildende) Auspendler*innen Berufspendler-Saldo Pendlersaldo an der Bevölkerung Gesamt (%)",
+          "description": "",
+          "keywords": "",
+          "href": "/goettingen-site/8-4/",
+          "status": "complete"
+        },
+        {
+          "id": "8-5",
+          "title": "Gemeinwohlökonomie: zertifizierte Unternehmen davon kommunale Betriebe",
+          "description": "",
+          "keywords": "",
+          "href": "/goettingen-site/8-5/",
+          "status": "complete"
+        }]
+    }
+  },
+  {
+    "goal": {
+      "id": "9",
+      "title": "Eine widerstandsfähige Infrastruktur aufbauen, breitenwirksame und nachhaltige Industrialisierung fördern und Innovationen unterstützen",
+      "indicators": [
+        
+        {
+          "id": "9-1",
+          "title": "Existenzgründungen (Neuerrichtungen je 1.000 Einwohner:innen) Gewerbeabmeldungen",
+          "description": "",
+          "keywords": "",
+          "href": "/goettingen-site/9-1/",
+          "status": "complete"
+        },
+        {
+          "id": "9-2",
+          "title": "Differenz",
+          "description": "",
+          "keywords": "",
+          "href": "/goettingen-site/9-2/",
+          "status": "complete"
+        }]
+    }
+  },
+  {
+    "goal": {
+      "id": "10",
+      "title": "Ungleichheit in und zwischen Ländern verringern",
+      "indicators": [
+        
+        {
+          "id": "10-1",
+          "title": "Bevölkerung Ausländer*innen Bevölkerung mit Migrationshintergrund Anzahl Einbürgerungen",
+          "description": "",
+          "keywords": "",
+          "href": "/goettingen-site/10-1/",
+          "status": "complete"
+        },
+        {
+          "id": "10-2",
+          "title": "umgesetzte Projekte im Bereich Inklusion",
+          "description": "",
+          "keywords": "",
+          "href": "/goettingen-site/10-2/",
+          "status": "complete"
+        },
+        {
+          "id": "10-3",
+          "title": "Beschwerden der Antidiskiminierungsstelle",
+          "description": "",
+          "keywords": "",
+          "href": "/goettingen-site/10-3/",
+          "status": "complete"
+        },
+        {
+          "id": "10-4",
+          "title": "Diversitätsmaßnahmen innerhalb der Verwaltung",
+          "description": "",
+          "keywords": "",
+          "href": "/goettingen-site/10-4/",
+          "status": "complete"
+        }]
+    }
+  },
+  {
+    "goal": {
+      "id": "11",
+      "title": "Städte und Siedlungen inklusiv, sicher, widerstandsfähig und nachhaltig gestalten",
+      "indicators": [
+        
+        {
+          "id": "11-1",
+          "title": "Wohnfläche pro Person (m²)",
+          "description": "",
+          "keywords": "",
+          "href": "/goettingen-site/11-1/",
+          "status": "complete"
+        },
+        {
+          "id": "11-2",
+          "title": "Flächeninanspruchnahme (%)",
+          "description": "",
+          "keywords": "",
+          "href": "/goettingen-site/11-2/",
+          "status": "complete"
+        },
+        {
+          "id": "11-3",
+          "title": "Flächenneuinanspruchnahme (% und ha)",
+          "description": "",
+          "keywords": "",
+          "href": "/goettingen-site/11-3/",
+          "status": "complete"
+        },
+        {
+          "id": "11-4",
+          "title": "Naherholungsflächen (ha je 1.000 Einwohner:innen)",
+          "description": "",
+          "keywords": "",
+          "href": "/goettingen-site/11-4/",
+          "status": "complete"
+        },
+        {
+          "id": "11-5",
+          "title": "Modal Split (Anteil Rad, Fuß, Auto, ÖPNV)",
+          "description": "",
+          "keywords": "",
+          "href": "/goettingen-site/11-5/",
+          "status": "complete"
+        },
+        {
+          "id": "11-6",
+          "title": "Google: zurückgelegte Wege",
+          "description": "",
+          "keywords": "",
+          "href": "/goettingen-site/11-6/",
+          "status": "complete"
+        },
+        {
+          "id": "11-7",
+          "title": "Fahrradstraßen km Radwege km E-Radwege km gesamt",
+          "description": "",
+          "keywords": "",
+          "href": "/goettingen-site/11-7/",
+          "status": "complete"
+        },
+        {
+          "id": "11-8",
+          "title": "FAZ Erreichbarkeit verschiedene Stellen",
+          "description": "",
+          "keywords": "",
+          "href": "/goettingen-site/11-8/",
+          "status": "complete"
+        },
+        {
+          "id": "11-9",
+          "title": "Straßen mit Temporeduktion auf 30 km/h",
+          "description": "",
+          "keywords": "",
+          "href": "/goettingen-site/11-9/",
+          "status": "complete"
+        },
+        {
+          "id": "11-10",
+          "title": "Fußgängerzone, Spielstraße",
+          "description": "",
+          "keywords": "",
+          "href": "/goettingen-site/11-10/",
+          "status": "complete"
+        },
+        {
+          "id": "11-11",
+          "title": "Ausgeliehene E-Lastenräder Leila",
+          "description": "",
+          "keywords": "",
+          "href": "/goettingen-site/11-11/",
+          "status": "complete"
+        },
+        {
+          "id": "11-12",
+          "title": "PKW-Dichte (Anzahl PKW) E-Fahrzeuge Göttingen (Bestand gesamtes Jahr)",
+          "description": "",
+          "keywords": "",
+          "href": "/goettingen-site/11-12/",
+          "status": "complete"
+        },
+        {
+          "id": "11-13",
+          "title": "inkl. Anzahl E-Autos",
+          "description": "",
+          "keywords": "",
+          "href": "/goettingen-site/11-13/",
+          "status": "complete"
+        },
+        {
+          "id": "11-14",
+          "title": "PKW pro Einwohner*innen",
+          "description": "",
+          "keywords": "",
+          "href": "/goettingen-site/11-14/",
+          "status": "complete"
+        }]
+    }
+  },
+  {
+    "goal": {
+      "id": "12",
+      "title": "Nachhaltige Konsum- und Produktionsmuster sicherstellen",
+      "indicators": [
+        
+        {
+          "id": "12-1",
+          "title": "Abfallmenge (Häuslicher Abfall und Recycling)",
+          "description": "",
+          "keywords": "",
+          "href": "/goettingen-site/12-1/",
+          "status": "complete"
+        },
+        {
+          "id": "12-2",
+          "title": "in kg umrechnen",
+          "description": "",
+          "keywords": "",
+          "href": "/goettingen-site/12-2/",
+          "status": "complete"
+        },
+        {
+          "id": "12-3",
+          "title": "Entleihungen Stadtbibliothek (Bibliothek der Dinge)",
+          "description": "",
+          "keywords": "",
+          "href": "/goettingen-site/12-3/",
+          "status": "complete"
+        }]
+    }
+  },
+  {
+    "goal": {
+      "id": "13",
+      "title": "Umgehend Maßnahmen zur Bekämpfung des Klimawandels und seiner Auswirkungen ergreifen",
+      "indicators": [
+        
+        {
+          "id": "13-1",
+          "title": "Index kommunaler Klimaschutz",
+          "description": "",
+          "keywords": "",
+          "href": "/goettingen-site/13-1/",
+          "status": "complete"
+        },
+        {
+          "id": "13-2",
+          "title": "https://sdg-treptow-koepenick.de/13-1-2/",
+          "description": "",
+          "keywords": "",
+          "href": "/goettingen-site/13-2/",
+          "status": "complete"
+        },
+        {
+          "id": "13-3",
+          "title": "THG-Emissionen Stadtgebiet gesamt (t/a)",
+          "description": "",
+          "keywords": "",
+          "href": "/goettingen-site/13-3/",
+          "status": "complete"
+        },
+        {
+          "id": "13-4",
+          "title": "THG-Emissionen nach Sektoren (%)",
+          "description": "",
+          "keywords": "",
+          "href": "/goettingen-site/13-4/",
+          "status": "complete"
+        },
+        {
+          "id": "13-5",
+          "title": "THG-Emissionen pro Einwohner*in",
+          "description": "",
+          "keywords": "",
+          "href": "/goettingen-site/13-5/",
+          "status": "complete"
+        },
+        {
+          "id": "13-6",
+          "title": "THG-Emissionen der Gebäude (HH nach Energieträgern)",
+          "description": "",
+          "keywords": "",
+          "href": "/goettingen-site/13-6/",
+          "status": "complete"
+        }]
+    }
+  },
+  {
+    "goal": {
+      "id": "14",
+      "title": "Ozeane, Meere und Meeresressourcen im Sinne nachhaltiger Entwicklung erhalten und nachhaltig nutzen",
+      "indicators": [
+        
+        {
+          "id": "14-1",
+          "title": "Fließgewässerqualität",
+          "description": "",
+          "keywords": "",
+          "href": "/goettingen-site/14-1/",
+          "status": "complete"
+        }]
+    }
+  },
+  {
+    "goal": {
+      "id": "15",
+      "title": "Landökosysteme schützen, wiederherstellen und ihre nachhaltige Nutzung fördern, Wälder nachhaltig bewirtschaften, Wüstenbildung bekämpfen, Bodendegradation beenden und umkehren und dem Verlust der biologischen Vielfalt ein Ende setzen",
+      "indicators": [
+        
+        {
+          "id": "15-1",
+          "title": "Index Kommunale Klimaanpassung",
+          "description": "",
+          "keywords": "",
+          "href": "/goettingen-site/15-1/",
+          "status": "complete"
+        },
+        {
+          "id": "15-2",
+          "title": "https://sdg-treptow-koepenick.de/15-1-1/",
+          "description": "",
+          "keywords": "",
+          "href": "/goettingen-site/15-2/",
+          "status": "complete"
+        },
+        {
+          "id": "15-3",
+          "title": "Zubau Stadtbäume",
+          "description": "",
+          "keywords": "",
+          "href": "/goettingen-site/15-3/",
+          "status": "complete"
+        },
+        {
+          "id": "15-4",
+          "title": "Naturschutzflächen (%)",
+          "description": "",
+          "keywords": "",
+          "href": "/goettingen-site/15-4/",
+          "status": "complete"
+        },
+        {
+          "id": "15-5",
+          "title": "Unzerschnittene Freiraumflächen (%)",
+          "description": "",
+          "keywords": "",
+          "href": "/goettingen-site/15-5/",
+          "status": "complete"
+        }]
+    }
+  },
+  {
+    "goal": {
+      "id": "16",
+      "title": "Friedliche und inklusive Gesellschaften für eine nachhaltige Entwicklung fördern, allen Menschen Zugang zur Justiz ermöglichen und leistungsfähige, rechenschaftspflichtige und inklusive Institutionen auf allen Ebenen aufbauen",
+      "indicators": [
+        
+        {
+          "id": "16-1",
+          "title": "Straftaten (Straftaten je 1.000 Einwohner:innen) Anzahl rassistisch, antisemitisch, homophob, und rechtsextrem geprägter Vorfälle (registrierte Straftaten und Diskriminierungsfälle)",
+          "description": "",
+          "keywords": "",
+          "href": "/goettingen-site/16-1/",
+          "status": "complete"
+        },
+        {
+          "id": "16-2",
+          "title": "Finanzmittelsaldo (Euro je Einwohner:in)",
+          "description": "",
+          "keywords": "",
+          "href": "/goettingen-site/16-2/",
+          "status": "complete"
+        },
+        {
+          "id": "16-3",
+          "title": "Steuereinnahmen pro Einwohner:in (Euro je Einwohner:in)",
+          "description": "",
+          "keywords": "",
+          "href": "/goettingen-site/16-3/",
+          "status": "complete"
+        },
+        {
+          "id": "16-4",
+          "title": "Liquiditätskredite (Euro je Einwohner:in)",
+          "description": "",
+          "keywords": "",
+          "href": "/goettingen-site/16-4/",
+          "status": "complete"
+        },
+        {
+          "id": "16-5",
+          "title": "Bürgerbeteiligungsmaßnahmen",
+          "description": "",
+          "keywords": "",
+          "href": "/goettingen-site/16-5/",
+          "status": "complete"
+        },
+        {
+          "id": "16-6",
+          "title": "Wahlbeteiligung",
+          "description": "",
+          "keywords": "",
+          "href": "/goettingen-site/16-6/",
+          "status": "complete"
+        }]
+    }
+  },
+  {
+    "goal": {
+      "id": "17",
+      "title": "Umsetzungsmittel stärken und die Globale Partnerschaft für nachhaltige Entwicklung mit neuem Leben erfüllen",
+      "indicators": [
+        
+        {
+          "id": "17-1",
+          "title": "Partnerschaft in Ländern des globalen Südens",
+          "description": "",
+          "keywords": "",
+          "href": "/goettingen-site/17-1/",
+          "status": "complete"
+        },
+        {
+          "id": "17-2",
+          "title": "Schulpartnerschaften",
+          "description": "",
+          "keywords": "",
+          "href": "/goettingen-site/17-2/",
+          "status": "complete"
+        },
+        {
+          "id": "17-3",
+          "title": "Mitgliedschaften in internationalen Netzwerken",
+          "description": "",
+          "keywords": "",
+          "href": "/goettingen-site/17-3/",
+          "status": "complete"
+        }]
+    }
   }]
