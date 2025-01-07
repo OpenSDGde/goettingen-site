@@ -145,7 +145,7 @@ var translations = {
         <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-EVSTQN3/azprG1Anm3QDgpJLIm9Nao0Yz1ztcQTwFspd3yD65VohhpuuCOmLASjC" crossorigin="anonymous">
         <link res="stylesheet" href="https://cdn.datatables.net/1.11.5/css/dataTables.bootstrap5.min.css">
         <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css" crossorigin="">
-        <link rel="stylesheet" href="/goettingen-site/assets/css/style.css?v=20250107125710">
+        <link rel="stylesheet" href="/goettingen-site/assets/css/style.css?v=20250107131425">
         <link rel="stylesheet" href="https://unpkg.com/leaflet@1.3.4/dist/leaflet.css"
           integrity="sha512-puBpdR0798OZvTTbP4A8Ix/l+A4dHDD0DGqYW6RQ+9jxkRFclaxxQb/SJAWZfWAkuyeQUytO7+7N4QKrDh+drA=="
           crossorigin=""/>
@@ -440,6 +440,13 @@ layout-indicator
 
     
 
+<div class="row" id="page-content">
+  <div class="col-xs-12">
+    <p>Noch immer existieren signifikante Einkommensunterschiede zwischen weiblichen und männlichen ArbeitnehmerInnen. Diese Unterschiede sind zum einen auf die Wahl unterschiedlicher Berufe, den Aufstieg in den unterschiedlich vergüteten Hierarchiegruppen und die Berücksichtigung von Berufserfahrung (ein familienbedingter, befristeter Ausstieg wirkt sich negativ auf die Einkommen aus) zurückzuführen. Zum anderen erhalten Frauen jedoch häufig auch bei der Ausübung gleichwertiger Berufe eine geringere Entlohnung und werden teils, trotz eines bestehenden Diskriminierungsverbotes, bei gleichen Voraussetzungen schlechter entlohnt als Männer. Der betrachtete Indikator setzt das (Brutto-) Medianeinkommen vollzeitbeschäftigter Frauen ins Verhältnis zum (Brutto-) Medianeinkommen vollzeitbeschäftigter Männer und liefert auf diese Weise Informationen zum Ausmaß des Einkommensunterschiedes zwischen Frauen und Männern auf kommunaler Ebene. Der Grundsatz des „gleichen Lohns für gleiche Arbeit“ betrifft dabei insbesondere die soziale Dimension. Niedrigere Entlohnung verstärkt die Anreize für Frauen, ihre Erwerbsbiographie familienbedingt zu unterbrechen oder nur reduziert zu arbeiten. Dies zementiert die geschlechtsspezifischen Arrangements zwischen Erwerbs- und Familienarbeit. Auch das Prinzip der Generationengerechtigkeit ist hiervon betroffen, da sich die Lohnlücke langfristig auch bei der Rentenhöhe bemerkbar macht. So sind durch die Lohn- und folglich Rentenlücken der Frauen aktuell mehr Frauen von Altersarmut betroffen, was sich direkt auf die kommunalen Haushalte auswirkt. Indirekt werden die Kommunen ebenfalls wirtschaftlich geschwächt, weil ein Teil des Erwerbspersonenpotenzials die ökonomischen Kapazitäten nicht voll entfalten kann.</p>
+
+  </div>
+</div>
+
 
       <!-- add statistic data as image for indicators if its "data_non_statistical" in meta data is set to "true" -->
 
@@ -451,8 +458,8 @@ layout-indicator
   id="indicatorData"
   data-indicatorid='indicator_5-2'
   data-id="5-2"
-  data-country="Göttingen"
-  data-charttitle="Verdienstabstand zwischen Frauen und Männern (%)"
+  data-country="Stadtgebiet Göttingen"
+  data-charttitle="Verdienstabstand zwischen Frauen und Männern"
   data-charttitles="null"
   data-measurementunit="Prozent"
   data-xaxislabel=""
@@ -510,7 +517,7 @@ layout-indicator
     
     <h3>Schlagzeilendaten</h3>
     <table class="table-responsive table table-hover dataTable no-footer" role="grid">
-      <caption>Verdienstabstand zwischen Frauen und Männern (%)</caption>
+      <caption>Verdienstabstand zwischen Frauen und Männern</caption>
       <thead>
         
         
@@ -557,7 +564,7 @@ layout-indicator
   <div id="datatableFooter">
     
     
-    <p>Geographische Abdeckung: Göttingen</p>
+    <p>Geographische Abdeckung: Stadtgebiet Göttingen</p>
     
     
     <p>Einheit: Prozent</p>
@@ -647,7 +654,7 @@ data-event-label="Change to Table tab"
       <figure role="group">
         <div id="chart-canvas">
           <h4 id="chart-heading" class="chart-title">
-            Verdienstabstand zwischen Frauen und Männern (%)
+            Verdienstabstand zwischen Frauen und Männern
           </h4>
           <div id="chart" class="plot-container">
             <canvas
@@ -670,7 +677,7 @@ data-event-label="Change to Table tab"
 
         
         <dt>Geographische Abdeckung:</dt>
-        <dd>Göttingen</dd>
+        <dd>Stadtgebiet Göttingen</dd>
         
 
         <dt class="data-controlled-footer-field unit-from-data">Einheit:</dt>
@@ -743,7 +750,7 @@ data-event-label="Change to Table tab"
 
         
         <dt>Geographische Abdeckung:</dt>
-        <dd>Göttingen</dd>
+        <dd>Stadtgebiet Göttingen</dd>
         
 
         <dt class="data-controlled-footer-field unit-from-data">Einheit:</dt>
@@ -927,7 +934,7 @@ data-event-label="Change to Metadaten tab"
         <th scope="row">Geographische Abdeckung </th>
         <td>
           
-            <p>Göttingen</p>
+            <p>Stadtgebiet Göttingen</p>
 
           
         </td>
@@ -937,20 +944,13 @@ data-event-label="Change to Metadaten tab"
   
       
       
-      
-        
-          
-          
-          
-          
-        
       
       
       <tr>
         <th scope="row">Periodizität </th>
         <td>
           
-            <p><span class="empty-metadata-placeholder">Für diesen Indikator nicht verfügbar</span></p>
+            <p>jährlich</p>
 
           
         </td>
@@ -961,19 +961,12 @@ data-event-label="Change to Metadaten tab"
       
       
       
-        
-          
-          
-          
-          
-        
-      
       
       <tr>
         <th scope="row">Daten verfügbar seit </th>
         <td>
           
-            <p><span class="empty-metadata-placeholder">Für diesen Indikator nicht verfügbar</span></p>
+            <p>2014</p>
 
           
         </td>
@@ -989,7 +982,7 @@ data-event-label="Change to Metadaten tab"
         <th scope="row">Datenquellen </th>
         <td>
           
-            <p>Stadt Göttingen</p>
+            <p>Wegweiser Kommune</p>
 
           
         </td>
@@ -1512,12 +1505,12 @@ if (allRequired) {
 <script>translations['search'] = translations['search'] || {};
     translations['search']['search'] = 'Suche';</script>
 
-<script src='/goettingen-site/assets/js/sdg.js?v=20250107125710'></script>
+<script src='/goettingen-site/assets/js/sdg.js?v=20250107131425'></script>
 
 
     
     
-    <script src="/goettingen-site/assets/js/custom.js?v=20250107125710"></script><script>
+    <script src="/goettingen-site/assets/js/custom.js?v=20250107131425"></script><script>
     new indicatorInit();
     new accessibilitySwitcher();
 </script>
