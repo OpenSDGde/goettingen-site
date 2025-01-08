@@ -145,7 +145,7 @@ var translations = {
         <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-EVSTQN3/azprG1Anm3QDgpJLIm9Nao0Yz1ztcQTwFspd3yD65VohhpuuCOmLASjC" crossorigin="anonymous">
         <link res="stylesheet" href="https://cdn.datatables.net/1.11.5/css/dataTables.bootstrap5.min.css">
         <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css" crossorigin="">
-        <link rel="stylesheet" href="/goettingen-site/assets/css/style.css?v=20250108082511">
+        <link rel="stylesheet" href="/goettingen-site/assets/css/style.css?v=20250108083414">
         <link rel="stylesheet" href="https://unpkg.com/leaflet@1.3.4/dist/leaflet.css"
           integrity="sha512-puBpdR0798OZvTTbP4A8Ix/l+A4dHDD0DGqYW6RQ+9jxkRFclaxxQb/SJAWZfWAkuyeQUytO7+7N4QKrDh+drA=="
           crossorigin=""/>
@@ -440,6 +440,13 @@ layout-indicator
 
     
 
+<div class="row" id="page-content">
+  <div class="col-xs-12">
+    <p>Der Stromspar-Check ist ein Angebot von Caritas und dem Bundesverband der Energie- und Klimaschutzagenturen, gefördert durch das Bundesumweltministerium. Ehemalige langzeitarbeitslose Menschen werden zu Stromspar-Helfer*innen ausgebildet und unterstützen nun andere Menschen mit geringen Einkommen, ihre Kosten zu senken. Der Stromsparcheck leistet damit einen Beitrag zur Energiesicherheit und -gerechtigkeit sowie zur Verhinderung von Energiearmut.</p>
+
+  </div>
+</div>
+
 
       <!-- add statistic data as image for indicators if its "data_non_statistical" in meta data is set to "true" -->
 
@@ -451,10 +458,10 @@ layout-indicator
   id="indicatorData"
   data-indicatorid='indicator_7-13'
   data-id="7-13"
-  data-country="Stadt Göttingen"
-  data-charttitle="Ergänzend eventuell: Prozentzahl der städtischen Gebäude mit PV-Belegung"
+  data-country="Stadtgebiet Göttingen"
+  data-charttitle="Stromsparchecks"
   data-charttitles="null"
-  data-measurementunit=""
+  data-measurementunit="Anzahl"
   data-xaxislabel=""
   data-showdata="true"
   data-graphtype="bar"
@@ -510,7 +517,7 @@ layout-indicator
     
     <h3>Schlagzeilendaten</h3>
     <table class="table-responsive table table-hover dataTable no-footer" role="grid">
-      <caption>Ergänzend eventuell: Prozentzahl der städtischen Gebäude mit PV-Belegung</caption>
+      <caption>Stromsparchecks</caption>
       <thead>
         
         
@@ -557,8 +564,10 @@ layout-indicator
   <div id="datatableFooter">
     
     
-    <p>Geographische Abdeckung: Stadt Göttingen</p>
+    <p>Geographische Abdeckung: Stadtgebiet Göttingen</p>
     
+    
+    <p>Einheit: Anzahl</p>
     
     
   </div>
@@ -645,7 +654,7 @@ data-event-label="Change to Table tab"
       <figure role="group">
         <div id="chart-canvas">
           <h4 id="chart-heading" class="chart-title">
-            Ergänzend eventuell: Prozentzahl der städtischen Gebäude mit PV-Belegung
+            Stromsparchecks
           </h4>
           <div id="chart" class="plot-container">
             <canvas
@@ -668,7 +677,7 @@ data-event-label="Change to Table tab"
 
         
         <dt>Geographische Abdeckung:</dt>
-        <dd>Stadt Göttingen</dd>
+        <dd>Stadtgebiet Göttingen</dd>
         
 
         <dt class="data-controlled-footer-field unit-from-data">Einheit:</dt>
@@ -741,7 +750,7 @@ data-event-label="Change to Table tab"
 
         
         <dt>Geographische Abdeckung:</dt>
-        <dd>Stadt Göttingen</dd>
+        <dd>Stadtgebiet Göttingen</dd>
         
 
         <dt class="data-controlled-footer-field unit-from-data">Einheit:</dt>
@@ -904,19 +913,12 @@ data-event-label="Change to Metadaten tab"
       
       
       
-        
-          
-          
-          
-          
-        
-      
       
       <tr>
         <th scope="row">Einheit </th>
         <td>
           
-            <p><span class="empty-metadata-placeholder">Für diesen Indikator nicht verfügbar</span></p>
+            <p>Anzahl</p>
 
           
         </td>
@@ -932,7 +934,7 @@ data-event-label="Change to Metadaten tab"
         <th scope="row">Geographische Abdeckung </th>
         <td>
           
-            <p>Stadt Göttingen</p>
+            <p>Stadtgebiet Göttingen</p>
 
           
         </td>
@@ -943,19 +945,12 @@ data-event-label="Change to Metadaten tab"
       
       
       
-        
-          
-          
-          
-          
-        
-      
       
       <tr>
         <th scope="row">Periodizität </th>
         <td>
           
-            <p><span class="empty-metadata-placeholder">Für diesen Indikator nicht verfügbar</span></p>
+            <p>jährlich</p>
 
           
         </td>
@@ -994,7 +989,7 @@ data-event-label="Change to Metadaten tab"
         <th scope="row">Datenquellen </th>
         <td>
           
-            <p>Stadt Göttingen</p>
+            <p>Energieagentur Region Göttingen e.V.</p>
 
           
         </td>
@@ -1344,6 +1339,18 @@ data-event-label="Change to Metadaten tab"
         </div>
     </div>
 </footer>
+<script src="https://code.jquery.com/jquery-3.6.1.min.js" integrity="sha256-o88AwQnZB+VDvE9tvIXrMQaPlFFSUTR+nldQm1LuPXQ=" crossorigin="anonymous"></script>
+<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/js/bootstrap.bundle.min.js" integrity="sha384-MrcW6ZMFYlzcLA8Nl+NtUVF0sA7MsXsP1UyJoMp4YLEuNSfAP+JcXn/tWtIaxVXM" crossorigin="anonymous"></script>
+<script src="https://cdn.datatables.net/1.11.5/js/jquery.dataTables.min.js"></script>
+<script src="https://cdn.datatables.net/1.11.5/js/dataTables.bootstrap5.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/lodash.js/4.17.21/lodash.min.js" integrity="sha512-WFN04846sdKMIP5LKNphMaWzU7YpMyCU245etK3g/2ARYbPK9Ub18eG+ljU96qKRCWh+quCY7yefSmlkQw1ANQ==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
+<script src="https://cdn.jsdelivr.net/npm/chart.js@3.7.0/dist/chart.min.js" integrity="sha256-Y26AMvaIfrZ1EQU49pf6H4QzVTrOI8m9wQYKkftBt4s=" crossorigin="anonymous"></script>
+<script src="https://cdn.jsdelivr.net/npm/patternomaly@1.3.2/dist/patternomaly.js"></script>
+
+
+<script src="https://cdnjs.cloudflare.com/ajax/libs/autotrack/2.4.1/autotrack.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/html2canvas@1.0.0-rc.3/dist/html2canvas.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/file-saver@2.0.2/dist/FileSaver.min.js"></script>
 
 
 <script>
@@ -1517,12 +1524,12 @@ if (allRequired) {
 <script>translations['search'] = translations['search'] || {};
     translations['search']['search'] = 'Suche';</script>
 
-<script src='/goettingen-site/assets/js/sdg.js?v=20250108082511'></script>
+<script src='/goettingen-site/assets/js/sdg.js?v=20250108083414'></script>
 
 
     
     
-    <script src="/goettingen-site/assets/js/custom.js?v=20250108082511"></script><script>
+    <script src="/goettingen-site/assets/js/custom.js?v=20250108083414"></script><script>
     new indicatorInit();
     new accessibilitySwitcher();
 </script>
