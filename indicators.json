@@ -271,7 +271,7 @@
         
         {
           "id": "7-1",
-          "title": "Endenergieverbrauch Göttingen nach Energieträgern (MWh/a)",
+          "title": "Endenergieverbrauch nach Energieträgern",
           "description": "",
           "keywords": "",
           "href": "/goettingen-site/7-1/",
@@ -279,7 +279,7 @@
         },
         {
           "id": "7-2",
-          "title": "Endenergieverbrauch Göttingen nach Energieträgern (%)",
+          "title": "Anteiliger Endenergieverbrauch nach Energieträgern",
           "description": "",
           "keywords": "",
           "href": "/goettingen-site/7-2/",
@@ -287,7 +287,7 @@
         },
         {
           "id": "7-3",
-          "title": "Wärmeverbrauch nach Sektoren (%)",
+          "title": "Wärmeverbrauch nach Sektoren",
           "description": "",
           "keywords": "",
           "href": "/goettingen-site/7-3/",
@@ -295,7 +295,7 @@
         },
         {
           "id": "7-4",
-          "title": "Wärmeverbrauch nach Energieträgern (MWh)",
+          "title": "Stromverbrauch nach Sektoren",
           "description": "",
           "keywords": "",
           "href": "/goettingen-site/7-4/",
@@ -303,7 +303,7 @@
         },
         {
           "id": "7-5",
-          "title": "Wärmeverbrauch nach Energieträgern (%)",
+          "title": "Lokale und nicht-lokale Stromerzeugung nach Energieträgern",
           "description": "",
           "keywords": "",
           "href": "/goettingen-site/7-5/",
@@ -311,7 +311,7 @@
         },
         {
           "id": "7-6",
-          "title": "Stromverbrauch nach Sektoren (%)",
+          "title": "Lokale Stromerzeugung mittels Photovoltaikanlagen",
           "description": "",
           "keywords": "",
           "href": "/goettingen-site/7-6/",
@@ -319,7 +319,7 @@
         },
         {
           "id": "7-7",
-          "title": "Stromerzeugung nach Energieträgern konventionell, Wind, PV, weitere Energieträger (Mwh/a oder %)",
+          "title": "Anzahl Photovoltaikanlagen",
           "description": "",
           "keywords": "",
           "href": "/goettingen-site/7-7/",
@@ -327,7 +327,7 @@
         },
         {
           "id": "7-8",
-          "title": "Anteil lokal erzeugter EE am Stromverbrauch (%)",
+          "title": "Installierte Balkonkraftwerke",
           "description": "",
           "keywords": "",
           "href": "/goettingen-site/7-8/",
@@ -335,7 +335,7 @@
         },
         {
           "id": "7-9",
-          "title": "nach Art der Erzeugung",
+          "title": "Ausbau lokaler Stromspeicher",
           "description": "",
           "keywords": "",
           "href": "/goettingen-site/7-9/",
@@ -343,7 +343,7 @@
         },
         {
           "id": "7-10",
-          "title": "Stromerzeugung aus PV: Anzahl PV-Anlagen im Stadtgebiet",
+          "title": "Länge des Fernwärmenetzes",
           "description": "",
           "keywords": "",
           "href": "/goettingen-site/7-10/",
@@ -351,7 +351,7 @@
         },
         {
           "id": "7-11",
-          "title": "Anzahl PV-Anlagen auf städtischen Dächern (Stadt und städt. Gesellschaften)",
+          "title": "Anzahl der Hausanschlüsse am Fernwärmenetz",
           "description": "",
           "keywords": "",
           "href": "/goettingen-site/7-11/",
@@ -359,7 +359,7 @@
         },
         {
           "id": "7-12",
-          "title": "PV-Anlagen: installierte Leistung gesamt auf städtischen Dächern (kWp)",
+          "title": "Energieverbräuche für Strom und Wärme der Stadtverwaltung Göttingen (eigene Liegenschaften und Einrichtungen)",
           "description": "",
           "keywords": "",
           "href": "/goettingen-site/7-12/",
@@ -367,7 +367,7 @@
         },
         {
           "id": "7-13",
-          "title": "Ergänzend eventuell: Prozentzahl der städtischen Gebäude mit PV-Belegung",
+          "title": "Stromsparchecks",
           "description": "",
           "keywords": "",
           "href": "/goettingen-site/7-13/",
@@ -375,7 +375,7 @@
         },
         {
           "id": "7-14",
-          "title": "Balkonkraftwerke",
+          "title": "Förderungen für energieeffiziente Haushaltsgeräte im KlimaFonds Göttingen",
           "description": "",
           "keywords": "",
           "href": "/goettingen-site/7-14/",
@@ -383,7 +383,7 @@
         },
         {
           "id": "7-15",
-          "title": "Marktstammdatenregister: https://www.marktstammdatenregister.de/MaStR/Einheit/Einheiten/OeffentlicheEinheitenuebersicht http://www.marktstammdatenregister.de/MaStR/Einheit/Einheiten/OeffentlicheEinheitenuebersicht?filter=Gemeinde~eq~%27G%C3%B6ttingen%27",
+          "title": "NN",
           "description": "",
           "keywords": "",
           "href": "/goettingen-site/7-15/",
@@ -391,7 +391,7 @@
         },
         {
           "id": "7-16",
-          "title": "installierte Speicherkapazität",
+          "title": "global_indicators.7-16-title",
           "description": "",
           "keywords": "",
           "href": "/goettingen-site/7-16/",
@@ -399,7 +399,7 @@
         },
         {
           "id": "7-17",
-          "title": "http://www.marktstammdatenregister.de/MaStR/Einheit/Einheiten/OeffentlicheEinheitenuebersicht?filter=Anzeige-Name%20der%20Einheit~eq~%27Stromspeicher%27~and~Gemeinde~eq~%27G%C3%B6ttingen%27",
+          "title": "NN",
           "description": "",
           "keywords": "",
           "href": "/goettingen-site/7-17/",
@@ -415,7 +415,7 @@
         
         {
           "id": "8-1",
-          "title": "Langzeitarbeitslosenquote (%) Göttingen",
+          "title": "Langzeitarbeitslosenquote",
           "description": "",
           "keywords": "",
           "href": "/goettingen-site/8-1/",
@@ -423,7 +423,7 @@
         },
         {
           "id": "8-2",
-          "title": "Beschäftigungsquote (%) Beschäftigungsquote 55- bis 64-Jährige (%)",
+          "title": "Beschäftigungsquote",
           "description": "",
           "keywords": "",
           "href": "/goettingen-site/8-2/",
@@ -431,7 +431,7 @@
         },
         {
           "id": "8-3",
-          "title": "Erwerbstätige Aufstocker*innen Gesamt (%) Erwerbstätige Aufstocker*innen - Frauen (%) Erwerbstätige Aufstocker*innen - Männer (%)",
+          "title": "Erwerbstätige AufstockerInnen",
           "description": "",
           "keywords": "",
           "href": "/goettingen-site/8-3/",
@@ -439,7 +439,7 @@
         },
         {
           "id": "8-4",
-          "title": "EinpendlerInnen Berufseinpendler*innen (inkl. Auszubildende) Auspendler*innen Berufspendler-Saldo Pendlersaldo an der Bevölkerung Gesamt (%)",
+          "title": "PendlerInnenbewegungen",
           "description": "",
           "keywords": "",
           "href": "/goettingen-site/8-4/",
@@ -447,7 +447,7 @@
         },
         {
           "id": "8-5",
-          "title": "Gemeinwohlökonomie: zertifizierte Unternehmen davon kommunale Betriebe",
+          "title": "Nach Standards der Gemeinwohlökonomie zertifizierte Unternehmen",
           "description": "",
           "keywords": "",
           "href": "/goettingen-site/8-5/",
@@ -463,7 +463,7 @@
         
         {
           "id": "9-1",
-          "title": "Existenzgründungen (Neuerrichtungen je 1.000 Einwohner:innen) Gewerbeabmeldungen",
+          "title": "Existenzgründungen",
           "description": "",
           "keywords": "",
           "href": "/goettingen-site/9-1/",
@@ -471,7 +471,7 @@
         },
         {
           "id": "9-2",
-          "title": "Differenz",
+          "title": "Hochqualifizierte am Arbeitsort",
           "description": "",
           "keywords": "",
           "href": "/goettingen-site/9-2/",
@@ -487,7 +487,7 @@
         
         {
           "id": "10-1",
-          "title": "Bevölkerung Ausländer*innen Bevölkerung mit Migrationshintergrund Anzahl Einbürgerungen",
+          "title": "Ausländische Bevölkerung",
           "description": "",
           "keywords": "",
           "href": "/goettingen-site/10-1/",
@@ -495,7 +495,7 @@
         },
         {
           "id": "10-2",
-          "title": "umgesetzte Projekte im Bereich Inklusion",
+          "title": "Inklusion",
           "description": "",
           "keywords": "",
           "href": "/goettingen-site/10-2/",
@@ -503,7 +503,7 @@
         },
         {
           "id": "10-3",
-          "title": "Beschwerden der Antidiskiminierungsstelle",
+          "title": "Antidiskiminierungsstelle",
           "description": "",
           "keywords": "",
           "href": "/goettingen-site/10-3/",
@@ -527,7 +527,7 @@
         
         {
           "id": "11-1",
-          "title": "Wohnfläche pro Person (m²)",
+          "title": "Wohnfläche",
           "description": "",
           "keywords": "",
           "href": "/goettingen-site/11-1/",
