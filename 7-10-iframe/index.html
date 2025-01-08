@@ -145,7 +145,7 @@ var translations = {
         <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-EVSTQN3/azprG1Anm3QDgpJLIm9Nao0Yz1ztcQTwFspd3yD65VohhpuuCOmLASjC" crossorigin="anonymous">
         <link res="stylesheet" href="https://cdn.datatables.net/1.11.5/css/dataTables.bootstrap5.min.css">
         <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css" crossorigin="">
-        <link rel="stylesheet" href="/goettingen-site/assets/css/style.css?v=20250108081855">
+        <link rel="stylesheet" href="/goettingen-site/assets/css/style.css?v=20250108081935">
         <link rel="stylesheet" href="https://unpkg.com/leaflet@1.3.4/dist/leaflet.css"
           integrity="sha512-puBpdR0798OZvTTbP4A8Ix/l+A4dHDD0DGqYW6RQ+9jxkRFclaxxQb/SJAWZfWAkuyeQUytO7+7N4QKrDh+drA=="
           crossorigin=""/>
@@ -288,6 +288,13 @@ layout-indicator-iframe
 
   
 
+<div class="row" id="page-content">
+  <div class="col-xs-12">
+    <p>Als Fernwärme wird eine Wärmelieferung zur Versorgung von Gebäuden mit Raumwärme und Wärme für Warmwasser bezeichnet. Der Transport der thermischen Energie erfolgt in einem wärmegedämmten Rohrsystem, einem sogenannten Wärmenetz. Der Bereich der Wärmeversorgung bietet einen wichtigen Ansatzpunkt für die Nutzung der erheblichen Effizienzpotenziale und die Minderung des Verbrauchs durch energetische Sanierungsmaßnahmen. Auch hier werden fossile Energieträger durch erneuerbare Alternativen ersetzt werden (müssen), ist doch der derzeitig vorherrschende Energieträger klar das Erdgas, sowohl direkt als auch indirekt über die Fernwärme. Dies wird nicht zuletzt aufgrund der Bundesgesetzgebung immer weiter reduziert werden. Durch den vermehrten Einsatz erneuerbarer Energien leistet die Fernwärme, die kontinuierlich und im Rahmen der städtischen Möglichkeiten ausgebaut wird, einen weiteren Beitrag zum Klimaschutz. Mit der kommunalen Wärmeleitplanung und der Energetischen Quartierssanierung unterstützt die Stadtverwaltung diesen Prozess.</p>
+
+  </div>
+</div>
+
 
     <!-- add statistic data as image for indicators if its "data_non_statistical" in meta data is set to "true" -->
 
@@ -299,10 +306,10 @@ layout-indicator-iframe
   id="indicatorData"
   data-indicatorid='indicator_7-10'
   data-id="7-10"
-  data-country="Stadt Göttingen"
-  data-charttitle="Stromerzeugung aus PV: Anzahl PV-Anlagen im Stadtgebiet"
+  data-country="Stadtgebiet Göttingen"
+  data-charttitle="Länge des Fernwärmenetzes in Göttingen"
   data-charttitles="null"
-  data-measurementunit="kWp"
+  data-measurementunit="km"
   data-xaxislabel=""
   data-showdata="true"
   data-graphtype="bar"
@@ -358,7 +365,7 @@ layout-indicator-iframe
     
     <h3>Schlagzeilendaten</h3>
     <table class="table-responsive table table-hover dataTable no-footer" role="grid">
-      <caption>Stromerzeugung aus PV: Anzahl PV-Anlagen im Stadtgebiet</caption>
+      <caption>Länge des Fernwärmenetzes in Göttingen</caption>
       <thead>
         
         
@@ -405,10 +412,10 @@ layout-indicator-iframe
   <div id="datatableFooter">
     
     
-    <p>Geographische Abdeckung: Stadt Göttingen</p>
+    <p>Geographische Abdeckung: Stadtgebiet Göttingen</p>
     
     
-    <p>Einheit: kWp</p>
+    <p>Einheit: km</p>
     
     
   </div>
@@ -495,7 +502,7 @@ data-event-label="Change to Table tab"
       <figure role="group">
         <div id="chart-canvas">
           <h4 id="chart-heading" class="chart-title">
-            Stromerzeugung aus PV: Anzahl PV-Anlagen im Stadtgebiet
+            Länge des Fernwärmenetzes in Göttingen
           </h4>
           <div id="chart" class="plot-container">
             <canvas
@@ -518,7 +525,7 @@ data-event-label="Change to Table tab"
 
         
         <dt>Geographische Abdeckung:</dt>
-        <dd>Stadt Göttingen</dd>
+        <dd>Stadtgebiet Göttingen</dd>
         
 
         <dt class="data-controlled-footer-field unit-from-data">Einheit:</dt>
@@ -591,7 +598,7 @@ data-event-label="Change to Table tab"
 
         
         <dt>Geographische Abdeckung:</dt>
-        <dd>Stadt Göttingen</dd>
+        <dd>Stadtgebiet Göttingen</dd>
         
 
         <dt class="data-controlled-footer-field unit-from-data">Einheit:</dt>
@@ -755,7 +762,7 @@ data-event-label="Change to Metadaten tab"
         <th scope="row">Einheit </th>
         <td>
           
-            <p>kWp</p>
+            <p>km</p>
 
           
         </td>
@@ -771,7 +778,7 @@ data-event-label="Change to Metadaten tab"
         <th scope="row">Geographische Abdeckung </th>
         <td>
           
-            <p>Stadt Göttingen</p>
+            <p>Stadtgebiet Göttingen</p>
 
           
         </td>
@@ -781,20 +788,13 @@ data-event-label="Change to Metadaten tab"
   
       
       
-      
-        
-          
-          
-          
-          
-        
       
       
       <tr>
         <th scope="row">Periodizität </th>
         <td>
           
-            <p><span class="empty-metadata-placeholder">Für diesen Indikator nicht verfügbar</span></p>
+            <p>jährlich</p>
 
           
         </td>
@@ -805,19 +805,12 @@ data-event-label="Change to Metadaten tab"
       
       
       
-        
-          
-          
-          
-          
-        
-      
       
       <tr>
         <th scope="row">Daten verfügbar seit </th>
         <td>
           
-            <p><span class="empty-metadata-placeholder">Für diesen Indikator nicht verfügbar</span></p>
+            <p>2014</p>
 
           
         </td>
@@ -833,7 +826,7 @@ data-event-label="Change to Metadaten tab"
         <th scope="row">Datenquellen </th>
         <td>
           
-            <p>Stadt Göttingen</p>
+            <p>GÖSIS 076.20 Stadt Göttingen</p>
 
           
         </td>
@@ -1089,12 +1082,12 @@ if (allRequired) {
 <script>translations['search'] = translations['search'] || {};
     translations['search']['search'] = 'Suche';</script>
 
-<script src='/goettingen-site/assets/js/sdg.js?v=20250108081855'></script>
+<script src='/goettingen-site/assets/js/sdg.js?v=20250108081935'></script>
 
 
     
     
-    <script src="/goettingen-site/assets/js/custom.js?v=20250108081855"></script><script>
+    <script src="/goettingen-site/assets/js/custom.js?v=20250108081935"></script><script>
     new indicatorInit();
     new accessibilitySwitcher();
 </script>
