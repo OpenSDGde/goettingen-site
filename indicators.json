@@ -15,7 +15,7 @@
         },
         {
           "id": "1-2",
-          "title": "SGB II-/SGB XII-Quote (%) Göttingen",
+          "title": "SGB II-/SGB XII-Quote",
           "description": "",
           "keywords": "",
           "href": "/goettingen-site/1-2/",
@@ -23,7 +23,7 @@
         },
         {
           "id": "1-3",
-          "title": "Kinderarmut (%) Göttingen Altersarmut (%) Göttingen",
+          "title": "Kinder- und Altersarmut",
           "description": "",
           "keywords": "",
           "href": "/goettingen-site/1-3/",
@@ -39,7 +39,7 @@
         
         {
           "id": "2-1",
-          "title": "Solidarische Landwirtschaften - Anzahl Stadtgärten, Gemeinschaftsgärten - Anzahl Initiativen im Bereich nachhaltiger Ernährung (mind.)",
+          "title": "Lokale und gemeinschaftliche Nahrungsmittelproduktion und Ernährungssicherheit",
           "description": "",
           "keywords": "",
           "href": "/goettingen-site/2-1/",
@@ -47,7 +47,7 @@
         },
         {
           "id": "2-2",
-          "title": "Göttinger Tafel: unterstützte Personen; Sach- und Nahrungsmittelspenden; Essensausgaben pro Woche",
+          "title": "Prekäre Nahrungsmittelversorgung",
           "description": "",
           "keywords": "",
           "href": "/goettingen-site/2-2/",
@@ -55,7 +55,7 @@
         },
         {
           "id": "2-3",
-          "title": "Kleingärten und Grabeland (Fläche in m²)",
+          "title": "Lokale Nahrungsmittelproduktion in Kleingärten und Grabeland",
           "description": "",
           "keywords": "",
           "href": "/goettingen-site/2-3/",
@@ -71,7 +71,7 @@
         
         {
           "id": "3-1",
-          "title": "Vorzeitige Sterblichkeit - Frauen (Todesfälle je 1.000 Einwohner:innen) Vorzeitige Sterblichkeit - Männer (Todesfälle je 1.000 Einwohner:innen)",
+          "title": "Vorzeitige Sterblichkeit",
           "description": "",
           "keywords": "",
           "href": "/goettingen-site/3-1/",
@@ -79,7 +79,7 @@
         },
         {
           "id": "3-2",
-          "title": "Krankenhausversorgung (Krankenhausbetten je 100.000 Einwohner:innen)",
+          "title": "Wohnungsnahe Grundversorgung im Gesundheitsbereich",
           "description": "",
           "keywords": "",
           "href": "/goettingen-site/3-2/",
@@ -87,7 +87,7 @@
         },
         {
           "id": "3-3",
-          "title": "Personal in Pflegeheimen (Vollzeitäquivalente je 1.000 Pflegebedürftige)",
+          "title": "Krankenhausversorgung",
           "description": "",
           "keywords": "",
           "href": "/goettingen-site/3-3/",
@@ -95,7 +95,7 @@
         },
         {
           "id": "3-4",
-          "title": "Pflegeheimplätze",
+          "title": "Belastung mit Luftschadstoffen",
           "description": "",
           "keywords": "",
           "href": "/goettingen-site/3-4/",
@@ -103,7 +103,7 @@
         },
         {
           "id": "3-5",
-          "title": "Luftschadstoffbelastung",
+          "title": "Hitzebelastung durch Hitzetage, Tropennächte sowie maximale Dauer von Hitzeperioden",
           "description": "",
           "keywords": "",
           "href": "/goettingen-site/3-5/",
@@ -119,7 +119,7 @@
         
         {
           "id": "4-1",
-          "title": "Schulabgänger:innen allgmb./berufsb. Schulen ohne Hauptschulabschluss - Gesamt (%)",
+          "title": "Unter 3-Jährige in Tageseinrichtungen",
           "description": "",
           "keywords": "",
           "href": "/goettingen-site/4-1/",
@@ -127,7 +127,7 @@
         },
         {
           "id": "4-2",
-          "title": "Studierendenzahlen in Göttingen (Entwicklung nach Jahren)",
+          "title": "Studierende in Göttingen",
           "description": "",
           "keywords": "",
           "href": "/goettingen-site/4-2/",
