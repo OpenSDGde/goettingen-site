@@ -3,9 +3,6 @@
     <head>
         <meta charset="utf-8">
         <script src="https://cdnjs.cloudflare.com/ajax/libs/modernizr/2.8.3/modernizr.min.js"></script>
-        <script crossorigin="anonymous" src="https://cdnjs.cloudflare.com/polyfill/v3/polyfill.min.js?version=4.8.0&features=Promise%2CString.prototype.includes%2CCustomEvent%2CArray.prototype.includes%2CArray.prototype.find%2CObject.assign%2CObject.values%2CObject.entries%2CArray.from%2CSet%2CArray.prototype.findIndex%2Cfetch"></script>
-<script crossorigin="anonymous" src="https://cdnjs.cloudflare.com/ajax/libs/javascript-canvas-to-blob/3.15.0/js/canvas-to-blob.min.js"></script>
-
         <script>
 // This is where we initialise any global variables, namespaced in "opensdg".
 var opensdg = {
@@ -142,7 +139,7 @@ var translations = {
         <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-EVSTQN3/azprG1Anm3QDgpJLIm9Nao0Yz1ztcQTwFspd3yD65VohhpuuCOmLASjC" crossorigin="anonymous">
         <link res="stylesheet" href="https://cdn.datatables.net/1.11.5/css/dataTables.bootstrap5.min.css">
         <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css" crossorigin="">
-        <link rel="stylesheet" href="/goettingen-site/assets/css/style.css?v=20250108103218">
+        <link rel="stylesheet" href="/goettingen-site/assets/css/style.css?v=20250112191919">
         <link rel="stylesheet" href="https://unpkg.com/leaflet@1.3.4/dist/leaflet.css"
           integrity="sha512-puBpdR0798OZvTTbP4A8Ix/l+A4dHDD0DGqYW6RQ+9jxkRFclaxxQb/SJAWZfWAkuyeQUytO7+7N4QKrDh+drA=="
           crossorigin=""/>
@@ -413,7 +410,7 @@ layout-goal
           </div>
           <div class="col goal-page-indicator-name">
           
-            <span class="indicator-name"><a href="/goettingen-site/11-2/">Flächeninanspruchnahme (%)</a></span>
+            <span class="indicator-name"><a href="/goettingen-site/11-2/">Flächeninanspruchnahme</a></span>
           </div>
           <div class="col-1 goal-page-indicator-progress">
             <!-- reporting status shown in the same line as indicators -->
@@ -456,7 +453,7 @@ layout-goal
           </div>
           <div class="col goal-page-indicator-name">
           
-            <span class="indicator-name"><a href="/goettingen-site/11-3/">Flächenneuinanspruchnahme (% und ha)</a></span>
+            <span class="indicator-name"><a href="/goettingen-site/11-3/">Naherholungsflächen</a></span>
           </div>
           <div class="col-1 goal-page-indicator-progress">
             <!-- reporting status shown in the same line as indicators -->
@@ -499,7 +496,7 @@ layout-goal
           </div>
           <div class="col goal-page-indicator-name">
           
-            <span class="indicator-name"><a href="/goettingen-site/11-4/">Naherholungsflächen (ha je 1.000 Einwohner:innen)</a></span>
+            <span class="indicator-name"><a href="/goettingen-site/11-4/">Modal Split</a></span>
           </div>
           <div class="col-1 goal-page-indicator-progress">
             <!-- reporting status shown in the same line as indicators -->
@@ -542,7 +539,7 @@ layout-goal
           </div>
           <div class="col goal-page-indicator-name">
           
-            <span class="indicator-name"><a href="/goettingen-site/11-5/">Modal Split (Anteil Rad, Fuß, Auto, ÖPNV)</a></span>
+            <span class="indicator-name"><a href="/goettingen-site/11-5/">Radinfrastruktur</a></span>
           </div>
           <div class="col-1 goal-page-indicator-progress">
             <!-- reporting status shown in the same line as indicators -->
@@ -585,7 +582,7 @@ layout-goal
           </div>
           <div class="col goal-page-indicator-name">
           
-            <span class="indicator-name"><a href="/goettingen-site/11-6/">Google: zurückgelegte Wege</a></span>
+            <span class="indicator-name"><a href="/goettingen-site/11-6/">Straßen mit Temporeduktion auf 30 km/h</a></span>
           </div>
           <div class="col-1 goal-page-indicator-progress">
             <!-- reporting status shown in the same line as indicators -->
@@ -628,7 +625,7 @@ layout-goal
           </div>
           <div class="col goal-page-indicator-name">
           
-            <span class="indicator-name"><a href="/goettingen-site/11-7/">Fahrradstraßen km Radwege km E-Radwege km gesamt</a></span>
+            <span class="indicator-name"><a href="/goettingen-site/11-7/">Nutzung von E-Lastenrädern</a></span>
           </div>
           <div class="col-1 goal-page-indicator-progress">
             <!-- reporting status shown in the same line as indicators -->
@@ -671,7 +668,7 @@ layout-goal
           </div>
           <div class="col goal-page-indicator-name">
           
-            <span class="indicator-name"><a href="/goettingen-site/11-8/">FAZ Erreichbarkeit verschiedene Stellen</a></span>
+            <span class="indicator-name"><a href="/goettingen-site/11-8/">PKW-Dichte</a></span>
           </div>
           <div class="col-1 goal-page-indicator-progress">
             <!-- reporting status shown in the same line as indicators -->
@@ -714,7 +711,7 @@ layout-goal
           </div>
           <div class="col goal-page-indicator-name">
           
-            <span class="indicator-name"><a href="/goettingen-site/11-9/">Straßen mit Temporeduktion auf 30 km/h</a></span>
+            <span class="indicator-name"><a href="/goettingen-site/11-9/">Öffentliche Ladesäulen für E-Autos</a></span>
           </div>
           <div class="col-1 goal-page-indicator-progress">
             <!-- reporting status shown in the same line as indicators -->
@@ -757,7 +754,7 @@ layout-goal
           </div>
           <div class="col goal-page-indicator-name">
           
-            <span class="indicator-name"><a href="/goettingen-site/11-10/">Fußgängerzone, Spielstraße</a></span>
+            <span class="indicator-name"><a href="/goettingen-site/11-10/">Im ÖPNV beförderte Personen</a></span>
           </div>
           <div class="col-1 goal-page-indicator-progress">
             <!-- reporting status shown in the same line as indicators -->
@@ -800,7 +797,7 @@ layout-goal
           </div>
           <div class="col goal-page-indicator-name">
           
-            <span class="indicator-name"><a href="/goettingen-site/11-11/">Ausgeliehene E-Lastenräder Leila</a></span>
+            <span class="indicator-name"><a href="/goettingen-site/11-11/">Im ÖPNV gefahrene Wagen-Kilometer</a></span>
           </div>
           <div class="col-1 goal-page-indicator-progress">
             <!-- reporting status shown in the same line as indicators -->
@@ -843,7 +840,7 @@ layout-goal
           </div>
           <div class="col goal-page-indicator-name">
           
-            <span class="indicator-name"><a href="/goettingen-site/11-12/">PKW-Dichte (Anzahl PKW) E-Fahrzeuge Göttingen (Bestand gesamtes Jahr)</a></span>
+            <span class="indicator-name"><a href="/goettingen-site/11-12/">Omnibusse Bestand</a></span>
           </div>
           <div class="col-1 goal-page-indicator-progress">
             <!-- reporting status shown in the same line as indicators -->
@@ -886,7 +883,7 @@ layout-goal
           </div>
           <div class="col goal-page-indicator-name">
           
-            <span class="indicator-name"><a href="/goettingen-site/11-13/">inkl. Anzahl E-Autos</a></span>
+            <span class="indicator-name"><a href="/goettingen-site/11-13/">NN</a></span>
           </div>
           <div class="col-1 goal-page-indicator-progress">
             <!-- reporting status shown in the same line as indicators -->
@@ -929,7 +926,7 @@ layout-goal
           </div>
           <div class="col goal-page-indicator-name">
           
-            <span class="indicator-name"><a href="/goettingen-site/11-14/">PKW pro Einwohner*innen</a></span>
+            <span class="indicator-name"><a href="/goettingen-site/11-14/">NN</a></span>
           </div>
           <div class="col-1 goal-page-indicator-progress">
             <!-- reporting status shown in the same line as indicators -->
@@ -1207,18 +1204,11 @@ layout-goal
         </div>
     </div>
 </footer>
-<script src="https://code.jquery.com/jquery-3.6.1.min.js" integrity="sha256-o88AwQnZB+VDvE9tvIXrMQaPlFFSUTR+nldQm1LuPXQ=" crossorigin="anonymous"></script>
-<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/js/bootstrap.bundle.min.js" integrity="sha384-MrcW6ZMFYlzcLA8Nl+NtUVF0sA7MsXsP1UyJoMp4YLEuNSfAP+JcXn/tWtIaxVXM" crossorigin="anonymous"></script>
-<script src="https://cdn.datatables.net/1.11.5/js/jquery.dataTables.min.js"></script>
-<script src="https://cdn.datatables.net/1.11.5/js/dataTables.bootstrap5.min.js"></script>
-<script src="https://cdnjs.cloudflare.com/ajax/libs/lodash.js/4.17.21/lodash.min.js" integrity="sha512-WFN04846sdKMIP5LKNphMaWzU7YpMyCU245etK3g/2ARYbPK9Ub18eG+ljU96qKRCWh+quCY7yefSmlkQw1ANQ==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
-<script src="https://cdn.jsdelivr.net/npm/chart.js@3.7.0/dist/chart.min.js" integrity="sha256-Y26AMvaIfrZ1EQU49pf6H4QzVTrOI8m9wQYKkftBt4s=" crossorigin="anonymous"></script>
-<script src="https://cdn.jsdelivr.net/npm/patternomaly@1.3.2/dist/patternomaly.js"></script>
+<script src="/goettingen-site/assets/js/main.bundle.js"></script>
 
 
-<script src="https://cdnjs.cloudflare.com/ajax/libs/autotrack/2.4.1/autotrack.js"></script>
-<script src="https://cdn.jsdelivr.net/npm/html2canvas@1.0.0-rc.3/dist/html2canvas.js"></script>
-<script src="https://cdn.jsdelivr.net/npm/file-saver@2.0.2/dist/FileSaver.min.js"></script>
+
+
 
 
 <script>
@@ -1376,7 +1366,7 @@ if (allRequired) {
 }
 
 </script>
-<script src="https://cdn.kiprotect.com/klaro/v0.7/klaro-no-css.js"></script>
+<script src="/goettingen-site/assets/js/klaro.bundle.js"></script>
 <script>translations['cookies'] = translations['cookies'] || {};
     translations['cookies']['cookie_settings'] = 'Cookie settings';</script>
 
@@ -1392,12 +1382,12 @@ if (allRequired) {
 <script>translations['search'] = translations['search'] || {};
     translations['search']['search'] = 'Suche';</script>
 
-<script src='/goettingen-site/assets/js/sdg.js?v=20250108103218'></script>
+<script src='/goettingen-site/assets/js/sdg.js?v=20250112191919'></script>
 
 
     
     
-    <script src="/goettingen-site/assets/js/custom.js?v=20250108103218"></script><script>
+    <script src="/goettingen-site/assets/js/custom.js?v=20250112191919"></script><script>
     new indicatorInit();
     new accessibilitySwitcher();
 </script>
