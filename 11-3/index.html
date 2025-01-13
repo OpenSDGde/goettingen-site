@@ -142,7 +142,7 @@ var translations = {
         <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-EVSTQN3/azprG1Anm3QDgpJLIm9Nao0Yz1ztcQTwFspd3yD65VohhpuuCOmLASjC" crossorigin="anonymous">
         <link res="stylesheet" href="https://cdn.datatables.net/1.11.5/css/dataTables.bootstrap5.min.css">
         <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css" crossorigin="">
-        <link rel="stylesheet" href="/goettingen-site/assets/css/style.css?v=20250113113043">
+        <link rel="stylesheet" href="/goettingen-site/assets/css/style.css?v=20250113114937">
         <link rel="stylesheet" href="https://unpkg.com/leaflet@1.3.4/dist/leaflet.css"
           integrity="sha512-puBpdR0798OZvTTbP4A8Ix/l+A4dHDD0DGqYW6RQ+9jxkRFclaxxQb/SJAWZfWAkuyeQUytO7+7N4QKrDh+drA=="
           crossorigin=""/>
@@ -437,6 +437,13 @@ layout-indicator
 
     
 
+<div class="row" id="page-content">
+  <div class="col-xs-12">
+    <p>Erholungsflächen erfüllen wichtige soziale, ökologische und ökonomische Funktionen. So haben Erholungsflächen einen hohen Freizeitwert, können Stress reduzieren und als Treffpunkt verschiedener sozialer Schichten dienen. Erholungsflächen haben jedoch auch einen hohen ökologischen Wert, da sie durch Klimaregulation und Luftfilterung insbesondere in städtischen Gebieten die Luftqualität verbessern können. Letztlich sind Erholungsräume aber auch ein wichtiger weicher Standortfaktor und damit von ökonomischer Relevanz.</p>
+
+  </div>
+</div>
+
 
       <!-- add statistic data as image for indicators if its "data_non_statistical" in meta data is set to "true" -->
 
@@ -448,10 +455,10 @@ layout-indicator
   id="indicatorData"
   data-indicatorid='indicator_11-3'
   data-id="11-3"
-  data-country="Stadt Göttingen"
+  data-country="Stadtgebiet Göttingen"
   data-charttitle="Naherholungsflächen"
   data-charttitles="null"
-  data-measurementunit="Prozent und ha"
+  data-measurementunit="m² je EinwohnerIn"
   data-xaxislabel=""
   data-showdata="true"
   data-graphtype="bar"
@@ -614,10 +621,10 @@ layout-indicator
   <div id="datatableFooter">
     
     
-    <p>Geographische Abdeckung: Stadt Göttingen</p>
+    <p>Geographische Abdeckung: Stadtgebiet Göttingen</p>
     
     
-    <p>Einheit: Prozent und ha</p>
+    <p>Einheit: m² je EinwohnerIn</p>
     
     
   </div>
@@ -727,7 +734,7 @@ data-event-label="Change to Table tab"
 
         
         <dt>Geographische Abdeckung:</dt>
-        <dd>Stadt Göttingen</dd>
+        <dd>Stadtgebiet Göttingen</dd>
         
 
         <dt class="data-controlled-footer-field unit-from-data">Einheit:</dt>
@@ -800,7 +807,7 @@ data-event-label="Change to Table tab"
 
         
         <dt>Geographische Abdeckung:</dt>
-        <dd>Stadt Göttingen</dd>
+        <dd>Stadtgebiet Göttingen</dd>
         
 
         <dt class="data-controlled-footer-field unit-from-data">Einheit:</dt>
@@ -968,7 +975,7 @@ data-event-label="Change to Metadaten tab"
         <th scope="row">Einheit </th>
         <td>
           
-            <p>Prozent und ha</p>
+            <p>m² je EinwohnerIn</p>
 
           
         </td>
@@ -984,7 +991,7 @@ data-event-label="Change to Metadaten tab"
         <th scope="row">Geographische Abdeckung </th>
         <td>
           
-            <p>Stadt Göttingen</p>
+            <p>Stadtgebiet Göttingen</p>
 
           
         </td>
@@ -994,20 +1001,13 @@ data-event-label="Change to Metadaten tab"
   
       
       
-      
-        
-          
-          
-          
-          
-        
       
       
       <tr>
         <th scope="row">Periodizität </th>
         <td>
           
-            <p><span class="empty-metadata-placeholder">Für diesen Indikator nicht verfügbar</span></p>
+            <p>jährlich</p>
 
           
         </td>
@@ -1018,19 +1018,12 @@ data-event-label="Change to Metadaten tab"
       
       
       
-        
-          
-          
-          
-          
-        
-      
       
       <tr>
         <th scope="row">Daten verfügbar seit </th>
         <td>
           
-            <p><span class="empty-metadata-placeholder">Für diesen Indikator nicht verfügbar</span></p>
+            <p>2016</p>
 
           
         </td>
@@ -1046,7 +1039,7 @@ data-event-label="Change to Metadaten tab"
         <th scope="row">Datenquellen </th>
         <td>
           
-            <p>Stadt Göttingen</p>
+            <p>Wegweiser Kommune</p>
 
           
         </td>
@@ -1574,12 +1567,12 @@ if (allRequired) {
 <script>translations['search'] = translations['search'] || {};
     translations['search']['search'] = 'Suche';</script>
 
-<script src='/goettingen-site/assets/js/sdg.js?v=20250113113043'></script>
+<script src='/goettingen-site/assets/js/sdg.js?v=20250113114937'></script>
 
 
     
     
-    <script src="/goettingen-site/assets/js/custom.js?v=20250113113043"></script><script>
+    <script src="/goettingen-site/assets/js/custom.js?v=20250113114937"></script><script>
     new indicatorInit();
     new accessibilitySwitcher();
 </script>
