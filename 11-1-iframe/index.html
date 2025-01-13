@@ -142,7 +142,7 @@ var translations = {
         <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-EVSTQN3/azprG1Anm3QDgpJLIm9Nao0Yz1ztcQTwFspd3yD65VohhpuuCOmLASjC" crossorigin="anonymous">
         <link res="stylesheet" href="https://cdn.datatables.net/1.11.5/css/dataTables.bootstrap5.min.css">
         <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css" crossorigin="">
-        <link rel="stylesheet" href="/goettingen-site/assets/css/style.css?v=20250113111644">
+        <link rel="stylesheet" href="/goettingen-site/assets/css/style.css?v=20250113112207">
         <link rel="stylesheet" href="https://unpkg.com/leaflet@1.3.4/dist/leaflet.css"
           integrity="sha512-puBpdR0798OZvTTbP4A8Ix/l+A4dHDD0DGqYW6RQ+9jxkRFclaxxQb/SJAWZfWAkuyeQUytO7+7N4QKrDh+drA=="
           crossorigin=""/>
@@ -285,6 +285,13 @@ layout-indicator-iframe
 
   
 
+<div class="row" id="page-content">
+  <div class="col-xs-12">
+    <p>Die verfügbare Wohnfläche je Person in Deutschland steigt seit Jahren aufgrund unterschiedlicher Faktoren. Zum einen führt der Trend zu Haushalten mit weniger Personen dazu, dass die Bevölkerung insgesamt mehr Wohnfläche beansprucht. Dieser generelle Trend zu mehr Wohnfläche pro Person wird zusätzlich dadurch verstärkt, dass Altersgruppen über 75 Jahren oftmals überdurchschnittlich große Wohnungen oder Häuser bewohnen. Die Folgen dieser Entwicklungen sind regional oft unterschiedlich und führen dazu, dass es zu erheblichen Ungleichheiten in dem Bedarf und der tatsächlichen Verfügbarkeit von Wohnfläche kommt. In Kombination mit stetig steigenden Immobilienpreisen und Mieten ist die effiziente Nutzung bereitstehender Wohnflächen, gemäß dem Prinzip der Ganzheitlichkeit, eine Herausforderung mit weitreichenden Konsequenzen für alle Dimensionen der Nachhaltigkeit.</p>
+
+  </div>
+</div>
+
 
     <!-- add statistic data as image for indicators if its "data_non_statistical" in meta data is set to "true" -->
 
@@ -296,10 +303,10 @@ layout-indicator-iframe
   id="indicatorData"
   data-indicatorid='indicator_11-1'
   data-id="11-1"
-  data-country="Stadt Göttingen"
+  data-country="Stadtgebiet Göttingen"
   data-charttitle="Wohnfläche"
   data-charttitles="null"
-  data-measurementunit="m²"
+  data-measurementunit="Wohnfläche pro Person (m²)"
   data-xaxislabel=""
   data-showdata="true"
   data-graphtype="bar"
@@ -461,7 +468,7 @@ data-event-label="Change to Table tab"
 
         
         <dt>Geographische Abdeckung:</dt>
-        <dd>Stadt Göttingen</dd>
+        <dd>Stadtgebiet Göttingen</dd>
         
 
         <dt class="data-controlled-footer-field unit-from-data">Einheit:</dt>
@@ -534,7 +541,7 @@ data-event-label="Change to Table tab"
 
         
         <dt>Geographische Abdeckung:</dt>
-        <dd>Stadt Göttingen</dd>
+        <dd>Stadtgebiet Göttingen</dd>
         
 
         <dt class="data-controlled-footer-field unit-from-data">Einheit:</dt>
@@ -698,7 +705,7 @@ data-event-label="Change to Metadaten tab"
         <th scope="row">Einheit </th>
         <td>
           
-            <p>m²</p>
+            <p>Wohnfläche pro Person (m²)</p>
 
           
         </td>
@@ -714,7 +721,7 @@ data-event-label="Change to Metadaten tab"
         <th scope="row">Geographische Abdeckung </th>
         <td>
           
-            <p>Stadt Göttingen</p>
+            <p>Stadtgebiet Göttingen</p>
 
           
         </td>
@@ -724,20 +731,13 @@ data-event-label="Change to Metadaten tab"
   
       
       
-      
-        
-          
-          
-          
-          
-        
       
       
       <tr>
         <th scope="row">Periodizität </th>
         <td>
           
-            <p><span class="empty-metadata-placeholder">Für diesen Indikator nicht verfügbar</span></p>
+            <p>jährlich</p>
 
           
         </td>
@@ -748,19 +748,12 @@ data-event-label="Change to Metadaten tab"
       
       
       
-        
-          
-          
-          
-          
-        
-      
       
       <tr>
         <th scope="row">Daten verfügbar seit </th>
         <td>
           
-            <p><span class="empty-metadata-placeholder">Für diesen Indikator nicht verfügbar</span></p>
+            <p>1990</p>
 
           
         </td>
@@ -776,7 +769,7 @@ data-event-label="Change to Metadaten tab"
         <th scope="row">Datenquellen </th>
         <td>
           
-            <p>Stadt Göttingen</p>
+            <p>GÖSIS Stadt Göttingen</p>
 
           
         </td>
@@ -1037,12 +1030,12 @@ if (allRequired) {
 <script>translations['search'] = translations['search'] || {};
     translations['search']['search'] = 'Suche';</script>
 
-<script src='/goettingen-site/assets/js/sdg.js?v=20250113111644'></script>
+<script src='/goettingen-site/assets/js/sdg.js?v=20250113112207'></script>
 
 
     
     
-    <script src="/goettingen-site/assets/js/custom.js?v=20250113111644"></script><script>
+    <script src="/goettingen-site/assets/js/custom.js?v=20250113112207"></script><script>
     new indicatorInit();
     new accessibilitySwitcher();
 </script>
