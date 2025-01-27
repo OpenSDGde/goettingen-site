@@ -1,0 +1,34 @@
+{
+  "devDependencies": {
+    "@shopify/prettier-plugin-liquid": "^1.6.3",
+    "prettier": "^3.4.2",
+    "prettier-plugin-tailwindcss": "^0.6.10",
+    "tailwindcss": "^4.0.0"
+  },
+  "scripts": {
+    "build:tailwind": "npx tailwindcss -c tailwind.config.js -i tailwind-input.css -o assets/css/tailwind.css"
+  },
+  "name": "goettingen-site",
+  "version": "1.0.0",
+  "description": "This is a starter repository to help in implementing the [Open SDG](https://github.com/open-sdg/open-sdg) platform. [See here for documentation](https://open-sdg.readthedocs.io).",
+  "main": "tailwind.config.js",
+  "dependencies": {
+    "@tailwindcss/cli": "^4.0.0",
+    "html-styles": "^1.0.0",
+    "isarray": "^1.0.0",
+    "isobject": "^2.1.0",
+    "line-column": "^1.0.2",
+    "ohm-js": "^16.6.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/OpenSDGde/goettingen-site.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/OpenSDGde/goettingen-site/issues"
+  },
+  "homepage": "https://github.com/OpenSDGde/goettingen-site#readme"
+}

@@ -1,0 +1,6 @@
+[submodule "data-repo"]
+	path = data-repo
+	url = https://gitlab.opencode.de/open-sdg-germany/goettingen-data.git
+[submodule "theme-repo"]
+	path = theme-repo
+	url = https://github.com/OpenSDGde/open-sdg

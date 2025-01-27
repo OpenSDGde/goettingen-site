@@ -13,3 +13,7 @@ deploy_key*.pub
 *.keybase
 .bundle
 vendor/
+_data/handlungsfelder.yml
+node_modules/
+theme-repo/
+data-repo/
