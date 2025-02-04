@@ -15,5 +15,4 @@ deploy_key*.pub
 vendor/
 _data/handlungsfelder.yml
 node_modules/
-theme-repo/
 data-repo/
